@@ -1,0 +1,22 @@
+4 : recupere tout les équipes du Maroc
+         : EquipeController l25
+
+5- Récupérer les matchs qui sont programmés le ‘28-02-2023’
+         : MatchController L24
+
+6- Récupérer le stade où se déroule le match de l’id=3
+        : StadeController L20
+
+7- Récupérer tous les joueurs de l’équipe ‘ATL MADRID’
+        : EquipeController L31
+
+8- Récupérer les deux équipes du match de l’id=3
+
+        : EquipeController L38
+
+9- Récupérer tous les joueurs de poste=’attaquant’ de l’équipe ‘PSG’
+        : EquipeController L45
+
+10- Supprimer tous les matchs déjà passés
+
+        : MatchController L38
